@@ -18,7 +18,7 @@ export const Grid  = styled.div`
     grid-template-areas:
         'CB PP AM'
         'CB SK SK'
-        'CB WK ED'
+        'CB ED WK' 
         'CB SL SL';    
     ;
     height: 100Vh

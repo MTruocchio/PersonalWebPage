@@ -6,6 +6,9 @@ import Skills from '../Skills'
 import PersonalProfile from '../PersonalProfile';
 import AboutMe from '../AboutMe'
 import ContactBar from '../ContactBar'
+import SliderTimeLine from '../SliderTimeLine'
+import Education from '../Education'
+import Works from '../Works'
 
 const Layout: React.FC = () => {
   return (
@@ -14,6 +17,9 @@ const Layout: React.FC = () => {
         <AboutMe />
         <Skills />
         <ContactBar />
+        <Education />
+        <Works />
+        <SliderTimeLine />
       </Grid>
   )
 }
