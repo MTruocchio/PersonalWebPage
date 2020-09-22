@@ -1,5 +1,5 @@
 # Product Name
-> Short blurb about what your product does.
+> Trying to create a personal web page with react js from absolutly zero.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
